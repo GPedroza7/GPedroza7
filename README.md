@@ -4,9 +4,9 @@
 
 ### Olá 👋
 
-🔭 <strong>Conte um pouco sobre você</strong>
+🔭 <strong>Me chamo Gabriel, tenho 21 anos, apaixonado por tecnologia, Comunicativo, afinidade em ensinar, English Basico, Francês intermediário</strong>
 
-- 💬 Pergunte-me sobre: <strong>Seus interesses</strong>
+- 💬 Pergunte-me sobre: <strong>Qual minha expectativa para se tornar um DEV</strong>
 - 🌱 Eu estou atualmente aprendendo <strong>Desenvolvimento Full-Stack, HTML, CSS3 e Java</strong>
 - 😀 <strong>Suporte de TI</strong>
 
