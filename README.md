@@ -12,7 +12,7 @@
 <h3>📖 Meus livros prediletos</h3>
 
 - [A arte da Guerra](#) <strong>Livro 1</strong>
-- [Código Limpo](#) <strong>Livro 2</strong>
+- [Código Limpo](https://github.com/free-educa/books/blob/main/books/Codigo%20Limpo%20-%20Completo%20PT.pdf) <strong>Livro 2</strong>
 - [Aprendendo Git e Github](#) <strong>Livro 3</strong>
   <a href="SEU_SITE_PESSOAL_AQUI">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=GPedroza7&show_icons=true&theme=radical" alt="Github status" />
