@@ -6,7 +6,7 @@
 
 - 💬 Pergunte-me sobre: <strong>Qual minha expectativa para se tornar um DEV</strong>
 - 🌱 Eu estou atualmente aprendendo <strong>Desenvolvimento Full-Stack, HTML, CSS3 e Java</strong>
-- 😀 <strong>Suporte de TI</strong>
+- 👨‍💻 <strong>Suporte de TI</strong>
 
 
 <h3>📖 Meus livros prediletos</h3>
