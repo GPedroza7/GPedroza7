@@ -5,15 +5,15 @@
 🔭 <strong>Me chamo Gabriel, tenho 21 anos, apaixonado por tecnologia, Comunicativo, afinidade em ensinar, English Basico, Francês intermediário</strong>
 
 - 💬 Pergunte-me sobre: <strong>Qual minha expectativa para se tornar um DEV</strong>
-- 🌱 Eu estou atualmente aprendendo <strong>Desenvolvimento Full-Stack, HTML, CSS3 e Java</strong>
+- 🌱 Eu estou atualmente aprendendo <strong>Desenvolvimento Full-Stack, HTML, CSS e Java</strong>
 - 👨‍💻 <strong>Suporte de TI</strong>
 
 
 <h3>📖 Meus livros prediletos</h3>
 
-- [A arte da Guerra](#) <strong>Livro 1</strong>
+- [Logica da Programação](https://github.com/free-educa/books/blob/main/books/Logica%20de%20programacao%20-%20Crie%20seus%20primeiros%20programas%20usando%20javascript%20e%20html%20-%20Casa%20do%20Codigo.pdf) <strong>Livro 1</strong>
 - [Código Limpo](https://github.com/free-educa/books/blob/main/books/Codigo%20Limpo%20-%20Completo%20PT.pdf) <strong>Livro 2</strong>
-- [Aprendendo Git e Github](#) <strong>Livro 3</strong>
+- [Livro de MySQL](https://github.com/free-educa/books/blob/main/books/Livro%20de%20MySQL.pdf) <strong>Livro 3</strong>
   <a href="SEU_SITE_PESSOAL_AQUI">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=GPedroza7&show_icons=true&theme=radical" alt="Github status" />
   </a>
